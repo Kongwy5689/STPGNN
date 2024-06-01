@@ -1,0 +1,44 @@
+{
+  "PEMS04": {
+    "data_dir": "data/PEMS04",
+    "num_nodes": 307,
+    "num_slots": 48,
+    "normalization": "batch"
+  },
+  "PEMS07": {
+    "data_dir": "data/PEMS07",
+    "num_nodes": 883,
+    "num_slots": 48,
+    "normalization": "batch"
+  },
+  "PEMS03": {
+    "data_dir": "data/PEMS03",
+    "num_nodes": 358,
+    "num_slots": 48,
+    "normalization": "batch"
+  },
+  "PEMS08": {
+    "data_dir": "data/PEMS08",
+    "num_nodes": 170,
+    "num_slots": 48,
+    "normalization": "batch"
+  },
+  "BAY": {
+    "data_dir": "data/PEMS-BAY",
+    "num_nodes": 325,
+    "num_slots": 48,
+    "normalization": "batch"
+  },
+  "bj": {
+    "data_dir": "data/bjtaxi",
+    "num_nodes": 1024,
+    "num_slots": 48,
+    "normalization": "batch"
+  },
+  "ENG": {
+    "data_dir": "data/ENG",
+    "num_nodes": 314,
+    "num_slots": 48,
+    "normalization": "layer"
+  }
+}

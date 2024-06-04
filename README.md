@@ -23,7 +23,7 @@ Step 2: Put them into data directories.
     python train.py --data PEMS07 --topk 175 
 
     # Train with PEMS08
-    python train.py --data PEMS08 --topk 70
+    python train.py --data PEMS08 --topk 35
 
     # Train with ENG
     python train.py --data ENG --topk 35
